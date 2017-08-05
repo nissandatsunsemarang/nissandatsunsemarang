@@ -1,0 +1,942 @@
+<html>
+  <head>
+    <meta  content="text/html; charset=windows-1252"  http-equiv="content-type">
+    <link  rel="stylesheet"  href="http://cdn.semarangnissandatsun.com/style.css"
+       media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.ie7.css" media="screen" /><![endif]-->
+    <link  rel="stylesheet"  href="http://cdn.semarangnissandatsun.com/style.responsive.css"
+       media="all">
+    <link  rel="stylesheet"  type="text/css"  href="http://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin">
+    <script  src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script  src="http://cdn.semarangnissandatsun.com/script.js"></script>
+    <script  src="http://cdn.semarangnissandatsun.com/script.responsive.js"></script>
+    <title></title>
+    <style  type="text/css">
+.grid-row {  
+  width: 100%;
+}
+
+</style></head>
+  <body>
+    <div  id="art-main">
+      <nav  style="background:#0E124E;z-index:999999;"  class="art-nav"> <a  href="http://www.semarangnissandatsun.com"
+           title="Datsun Nissan Semarang"><img  style="height:70px;float:left;"
+             src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/datsunnissan.png"
+             alt="Datsun Nissan Semarang"></a>
+        <ul  style="float:right;"  class="art-hmenu menu-8">
+          <li  class="menu-item-24 active"><a  title="Datsun Nissan Semarang"  href="http://www.semarangnissandatsun.com/"
+               class="active">Beranda</a> </li>
+          <li  class="menu-item-25"><a  title="Datsun"  href="http://www.semarangnissandatsun.com/datsun/">Datsun</a>
+          </li>
+          <li  class="menu-item-26"><a  title="Nissan"  href="http://www.semarangnissandatsun.com/nissan/">Nissan</a>
+          </li>
+          <li  class="menu-item-27"><a  title="Pemesanan"  href="http://www.semarangnissandatsun.com/pemesanan/">Pemesanan</a>
+          </li>
+        </ul>
+      </nav>
+      <div  class="art-sheet clearfix">
+        <div  class="art-layout-wrapper">
+          <div  class="art-content-layout">
+            <div  class="art-content-layout-row">
+              <div  class="art-layout-cell art-content">
+                <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                     style="box-sizing: border-box; ;">nissan Serena</span></p>
+                <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                     style="box-sizing: border-box; ;"><br>
+                  </span></p>
+                <h3  style="    box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                     style="box-sizing: border-box; ;"><span  style="font-weight: bold; color: rgb(0, 0, 0); font-size: larger;">YOUR
+                      PARTNER IN EVERYDAY JOURNEY</span><br>
+                  </span></h3>
+                <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em; text-align: justify; padding: 10px;"><span
+                     style="color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Rayakan
+                    rutinitas sehari-hari atau perjalanan keluarga bersama
+                    Nissan Serena. Didukung fleksibilitas kargo yang memudahkan,
+                    serta teknologi canggih , membuat Anda ingin mengajak semua
+                    orang bersama untuk melakukan perjalanan. </span></p>
+                <img  title="Nissan Serena Preview"  alt="Intro Nissan Serena"  style="width:100%;"
+                   src="nissan-serena.jpg"><br>
+                <div  class="heading-group"  style="box-sizing: border-box; padding: 0px 0px 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;"><br>
+                  <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em; position: relative; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                    <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                         style="box-sizing: border-box; max-width: 80%;">A
+                        BREATH OF FRESH AIR</span></p>
+                    <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                         style="box-sizing: border-box; max-width: 80%;"><br>
+                      </span></p>
+                  </div>
+                  <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: left; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;"><span
+                       style="box-sizing: border-box; margin: 0px;">TRAVELING IN
+                      STYLE</span></h2>
+                  <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">Nissan
+                    Serena dirancang untuk menjaga kebahagiaan keluarga di
+                    sepanjang perjalanan. Mulai dari interior hingga Panoramic
+                    Roof yang memiliki garis desain halus, semuanya ditata untuk
+                    saat istimewa dan kenyamanan pribadi Anda.</p>
+                </div>
+                <div  id="serenagalleria">
+                  <li><a  href="serena1.jpg"><img  title="Serena Black"  alt="Serena Black"
+                         src="serena1.jpg"></a><br>
+                  </li>
+                  <li><a  href="serena2.jpg"><img  title="Serena Preview"  alt="Serena Preview"
+                         src="serena2.jpg"></a><br>
+                  </li>
+                  <a  href="serena2.jpg"> </a>
+                  <li><a  href="serena3.jpg"><img  title="Serena Preview"  alt="Serena Preview"
+                         src="serena3.jpg"></a><br>
+                  </li>
+                </div>
+                <script  src="http://promosirupiah.github.io/janivalibrary/galleria-1.5.1.min.js"></script>
+                <script  src="http://promosirupiah.github.io/janivalibrary/twelve/galleria.twelvetes.min.js"></script>
+                <link  href="http://promosirupiah.github.io/janivalibrary/twelve/galleria.twelve.min.css"
+                   media="all"  rel="stylesheet"  type="text/css">
+                <style>#serenagalleria img{display:none;}</style>
+                <script>
+$(window).load(function(){  
+$('#serenagalleria').css({width:'100%',});
+if($(window).width()>$(window).height()){$('#serenagalleria').css({height:$('#serenagalleria').width()*0.3,}); }
+else{$('#serenagalleria').css({height:$('#serenagalleria').width()*0.4,});}
+ Galleria.run('#serenagalleria',{
+transition: 'fade',
+lightbox: true,
+thumbnails: true,imageCrop: false,
+autoplay: true});
+});
+$(window).resize(function(){
+if($(window).width()>$(window).height()){$('#serenagalleria').css({height:$('#serenagalleria').width()*0.3,}); }
+else{$('#serenagalleria').css({height:$('#serenagalleria').width()*0.4,});}
+})
+</script> <br>
+                <div  style="width:100%;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena SIGNATURE HEADLAMP"  alt="SIGNATURE HEADLAMP Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/design-1.jpg.ximg.l_4_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">SIGNATURE
+                                    HEADLAMP</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Secara
+                                  otomatis akan nyala dan mati sesuai kebutuhan
+                                  dan adanya&nbsp;penambahan sentuhan stylish
+                                  pada eksterior Nissan Serena. (Tipe HWS &amp;
+                                  Autech)</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena COMBINATION REAR LAMP"  alt="COMBINATION REAR LAMP Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/design-2.jpg.ximg.l_4_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">COMBINATION
+                                    REAR LAMP</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Lampu
+                                  belakang LED yang di desain seperti kristal
+                                  memberikan penglihatan dan tampilan baru
+                                  Nissan Serena yang sporty. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box; "><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena ALLOY WHEEL 16&quot;"  alt="ALLOY WHEEL 16&quot; Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/design-3.jpg.ximg.l_4_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">ALLOY WHEEL
+                                    16" </span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Desain
+                                  baru Alloy Wheel ukuran 16”. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto; ">
+                    <div  class="col-12"  style="box-sizing: border-box; float: left;  padding: 0px 15px;">
+                      <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                          <h2  style="box-sizing: border-box; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">SPACIOUS
+                              DESIGN</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; max-width: 80%;">WIDE-OPEN
+                              SPACE THAT BRINGS YOU CLOSER TOGETHER</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">Nissan
+                          Serena memiliki kabin luas untuk kenyamanan Anda dan
+                          keluarga yang dilengkapi Panoramic Roof untuk
+                          menikmati ruang terbuka dan udara segar. Dirancang
+                          unik dengan “Central Walkthrough” yang membuat Anda
+                          lebih dekat dan mudah dalam melakukan setiap
+                          percakapan dengan tempat duduk penumpang yang mewah. </p>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;"><br>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                <div  id="serenaint"> <img  alt=""  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/gi_hero1.jpg.ximg.l_12_m.smart.jpg">
+                  <img  alt=""  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/gi_hero2.jpg.ximg.l_12_m.smart.jpg"><br>
+                  <img  alt=""  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/gi_hero3.jpg.ximg.l_12_m.smart.jpg"></div>
+                <style>#serenaint img{display:none;} #serenaint{clear:both;}</style>
+                <script>
+$(window).load(function(){  
+$('#serenaint').css({width:'100%',});
+if($(window).width()>$(window).height()){$('#serenaint').css({height:$('#serenaint').width()*0.3,}); }
+else{$('#serenaint').css({height:$('#serenaint').width()*0.4,});}
+ Galleria.run('#serenaint',{
+transition: 'fade',
+lightbox: true,
+thumbnails: true,imageCrop: false,
+autoplay: true});
+})
+
+$(window).resize(function(){
+if($(window).width()>$(window).height()){$('#serenaint').css({height:$('#serenaint').width()*0.3,}); }
+else{$('#serenaint').css({height:$('#serenaint').width()*0.4,});}
+})
+</script> <a  href="serena3.jpg">
+                  <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                    <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto; ">
+                      <div  class="col-12"  style="box-sizing: border-box; float: left;  padding: 0px 15px;">
+                        <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <br>
+                </a><br>
+                <br>
+                <br>
+                <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto;">
+                    <div  class="col-12"  style="box-sizing: border-box; float: left; padding: 0px 15px;">
+                      <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative;">
+                          <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">QUICK
+                              CHANGE ARTIST</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; max-width: 80%;">ROOM
+                              FOR ALL</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em;">Dalam
+                          melakukan perjalanan mungkin Anda membawa banyak
+                          keluarga atau hanya Anda berdua dengan sepeda serta
+                          pelengkapan golf Anda. Apapun itu, Anda akan
+                          berkendara dalam kesempurnaan.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  class="columns parsys"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="columns column section columns84"  style="box-sizing: border-box;">
+                    <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto; max-">
+                      <div  class="col-8"  style="box-sizing: border-box; float: left; padding: 0px 15px; ">
+                        <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                          <div  class="image parbase section"  style="box-sizing: border-box;">
+                            <div  class="c_029"  data-adobe-target-id="fba31ecc6661"
+                               style="box-sizing: border-box; padding: 1.28571em 0px;"><br
+                                 class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                <br>
+                <style>.separuh{width:49%;float:left;} .responsive .separuh{width:100%;}</style>
+                <br>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena CENTRAL WALKTROUGH"  alt="CENTRAL WALKTROUGH Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/gi_hero2.jpg.ximg.l_6_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">CENTRAL
+                                    WALKTROUGH</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Habiskan
+                                  waktu bersama keluarga dalam sebuah perjalanan
+                                  yang begitu berkesan. Nissan Serena hadir
+                                  untuk memberikan semua kenyamanan dengan
+                                  banyak ruang untuk berbaring dan bersantai.
+                                  Dilengkapi “Central Walktrough”, yang
+                                  memungkinkan Anda berpindah dari tempat duduk
+                                  dengan ruang jalan yang memudahkan
+                                  keluar-masuk. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena PANORAMIC ROOF"  alt="PANORAMIC ROOF Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/design/interior-2.jpg.ximg.l_6_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">PANORAMIC
+                                    ROOF</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Dengan
+                                  Panoramic Roof yang cukup luas untuk Anda dan
+                                  keluarga yang ingin menikmati pemandangan
+                                  indah. Dilengkapi kaca yang mampu menahan
+                                  sinar ultraviolet, dengan tirai yang bisa di
+                                  buka tutup untuk menjangkau pemandangan yang
+                                  Anda suka. (Tipe Autech) </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box; "><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena WALK RIGHT THROUGH"  alt="WALK RIGHT THROUGH Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_21.jpg.ximg.l_8_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">WALK RIGHT
+                                    THROUGH</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Kursi
+                                  baris ke-2 dengan sistem sliding center pada
+                                  Nissan Serena merupakan kursi pintar yang
+                                  mudah digunakan. Dengan hanya menggeser akan
+                                  membuat jalan mudah dilalui. Serta dapat
+                                  dilipat ke bawah sebagai sandaran tangan
+                                  dengan ruang simpan barang dan minuman. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena SEAT TRAY"  alt="SEAT TRAY Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_28.jpg.ximg.l_6_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">SEAT TRAY</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Meja
+                                  Lipat Pribadi yang dapat dibuka dengan mudah
+                                  untuk meletakkan minuman atau cemilan ketika
+                                  berpergian. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:50%;float:left"> <img  style="width: 100%;"
+                       title="Nissan Serena SMART-UP 3RD-ROW SEAT"  alt="SMART-UP 3RD-ROW SEAT Nissan Serena"
+                       src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_27.jpg.ximg.l_6_m.smart.jpg"></div>
+                  <div  style="float: right; width: 48%;">
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px; display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="32eaf2f2b102"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  style="box-sizing: border-box;">
+                              <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em;">
+                                <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                                     style="box-sizing: border-box;">SMART-UP
+                                    3RD-ROW SEAT</span></h3>
+                              </div>
+                              <div  class="content-group"  style="box-sizing: border-box; padding: 0px 15px; text-align: left;">
+                                <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-wrap: break-word;">Begitu
+                                  mudahnya, hanya dengan satu tangan kursi baris
+                                  ke-3 dapat dilipat ke samping, serta dapat
+                                  direndahkan posisinya untuk membuat ruang
+                                  kargo. Posisi kursi ini juga dirancang khusus
+                                  agar tidak menutupi jendela bagian samping. </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div  class="col-4"  style="box-sizing: border-box; float: left; padding: 0px 15px;  display: block; margin-right: 0px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                      <div  class="parsys col2-par"  style="box-sizing: border-box;">
+                        <div  class="image contentPromo section imageTextLink"  style="box-sizing: border-box;">
+                          <div  class="c_005 "  data-adobe-target-id="564a156d300e"
+                             data-clickable=""  style="box-sizing: border-box; margin-top: 1.28571em; margin-bottom: 1.28571em;">
+                            <div  class="content-half"  data-adobe-target-id="564a156d300e"
+                               style="box-sizing: border-box;"><br  class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke- text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto;">
+                    <div  class="col-12"  style="box-sizing: border-box; float: left; padding: 0px 15px;">
+                      <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                          <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">OPTIONAL
+                              SEATING FOR EIGHT</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; max-width: 80%;">PACK
+                              UP THE TEAM</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em; color: rgb(52, 52, 52); font-family: Verdana,Arial,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial;">Dengan
+                          empat belas konfigurasi kursi dan kargo berbeda, yang
+                          bisa Anda gunakan sesuai dengan kebutuhan dan kesukaan
+                          Anda. Nissan Serena lebih dari mobil MPV keluarga yang
+                          Anda bayangkan.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <img  title="Nissan Serena"  alt="Nissan Serena"  style="width:100%;"
+                   src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Ext_5.jpg.ximg.l_12_m.smart.jpg"><br>
+                <br>
+                <br>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_7.jpg.ximg.l_3_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">8-SEATER MODE</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Bangku&nbsp;tengah
+                        baris kedua dapat digunakan menjadi 3 kursi tempat duduk
+                        ketika Anda&nbsp;ingin membawa 8 orang sekaligus.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_18.jpg.ximg.l_3_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">SNACK TIME</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Gunakan
+                        model meja, untuk makanan dan minuman ringan</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_19.jpg.ximg.l_3_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">LEAN HERE</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Lipat
+                        ke bawah untuk sandaran tangan dengan kenyamanan</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_20.jpg.ximg.l_3_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">TISSUE BOX</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Angkat
+                        tutupnya dan temukan tempat sempurna untuk penyimpanan
+                        tisu.</p>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                <br  style="clear:both;">
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto;">
+                    <div  class="col-12"  style="box-sizing: border-box; float: left; padding: 0px 15px;">
+                      <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative;">
+                          <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">SMART
+                              SPACE</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; ">EVERYTHING IN
+                              ITS PLACE</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em;">Nissan
+                          Serena mempunyai ruang interior dengan panjang 3.060
+                          mm dan tinggi 1.380 mm. Bagasi dengan ruang yang luas
+                          siap mengakomodasi sepeda, tas, dan barang besar
+                          lainnya.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/performance/storage.jpg.ximg.l_6_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">TWO TIMES FOUR</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Geser
+                        kursi baris kedua kedepan dan lipat kursi baris ketiga
+                        untuk membawa 4 buah sepeda, dengan ruang </p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/performance/hide-in.jpg.ximg.l_6_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">HIDE IT AWAY</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Dibawah
+                        lantai bagasi, Anda akan menemukan ruang untuk
+                        meletakkan tas golf atau stroller, walaupun kursi baris
+                        ketiga pun digunakan.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_34.jpg.ximg.l_12_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">Two for up front</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Diperuntukkan
+                        untuk pengemudi dan penumpang di kursi depan.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_43.jpg.ximg.l_12_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">3RD-Row Essentials</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Penumpang
+                        di kursi belakang mempunyai sebuah cupholder, dan sebuah
+                        tempat untuk meletakkan telepon genggam dan kotak tisu.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_31.jpg.ximg.l_12_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">Front-Row Compartment</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Sebuah
+                        tempat aman untuk menyimpan kacamata Anda. Sebagai
+                        tambahan, ada tempat penyimpanan lain berada dalam panel
+                        instrumen untuk barang penting lainnya seperti kaca
+                        mata.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_33.jpg.ximg.l_12_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">GLOVE BOX</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Sebuah
+                        tempat dimana barang-barang yang harus dekat dengan
+                        tangan Anda tetapi jauh dari pandangan mata.</p>
+                    </div>
+                  </div>
+                </div>
+                <div  style="width:100%;clear:both;">
+                  <div  style="width:45%;float:left;"><img  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/Int_42.jpg.ximg.l_12_m.smart.jpg"
+                       style="width:100%;"></div>
+                  <div  style="width:50%;float:right;">
+                    <div  class="heading-group"  style="box-sizing: border-box; padding: 1.42857em 15px 0.357143em; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <h3  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 1.14286em; margin: 0px; padding: 0px; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: normal;"><span
+                           style="box-sizing: border-box;">UNDERSEAT STORAGE</span></h3>
+                    </div>
+                    <div  class="content-group"  style="box-sizing: border-box; margin-top: 0.357143em; padding: 0px 15px; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                      <p  style="box-sizing: border-box; line-height: 1.5; margin: 0px 0px 0.5em; font-size: 1em; word-break: break-word; word-wrap: break-word; -webkit-font-smoothing: antialiased;">Kabin
+                        harus tetap bersih dan rapi, tetapi tetap membawa barang
+                        yang Anda butuhkan. Tempat yang baik untuk menyimpan
+                        barang P3K.</p>
+                    </div>
+                  </div>
+                </div>
+                <br  style="clear:both;">
+                <div  class="title"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto;">
+                    <div  class="col-12"  style="box-sizing: border-box; float: left; padding: 0px 15px;">
+                      <div  class="c_004 "  style="box-sizing: border-box; padding: 0px 0px 1.28571em; text-align: left;">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative;">
+                          <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">NISSAN
+                              SAFETY SHIELD</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; ">PEACE OF MIND</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em;">Teknologi
+                          Nissan Safety Shield adalah pendekatan komprehensif
+                          untuk keselamatan yang dipandu oleh engineer dan
+                          pengembangan setiap kendaraan yang kami buat. Dengan
+                          fitur standar seperti sistem Dual front SRS airbag,
+                          yang memungkinkan Nissan untuk membantu penumpang
+                          pengendara dan penumpang menghindarkan diri dari
+                          segala bentuk situasi yang membahayakan, mulai dari
+                          “resiko yang mungkin terjadi” hingga “pasca tabrakan”.</p>
+                        <img  style="width: 100%;"  title="Nissan Serena Safety Shield"
+                           alt="Nissan Serena Safety Shield"  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/features/safety.jpg.ximg.l_12_m.smart.jpg">
+                        <div  class="heading-group"  style="box-sizing: border-box; display: table; table-layout: fixed; padding-top: 1.28571em;  position: relative;">
+                          <h2  style="box-sizing: border-box; color: rgb(52, 52, 52); letter-spacing: 0.1px; line-height: 1; font-size: 2em; margin: 0.0714286em 0px 0px; padding: 0px 0px 0.428571em; font-family: &quot;Nissan Bold&quot;, Verdana, Arial, sans-serif; font-weight: 400; text-transform: uppercase; word-wrap: break-word; display: block; border-bottom: 1px dashed rgb(193, 193, 193);"><span
+                               style="box-sizing: border-box; margin: 0px;">ECO
+                              DRIVING</span></h2>
+                          <p  style="box-sizing: border-box; line-height: 1.1; margin: 1em 0px 0px; font-size: 1em; color: rgb(195, 0, 47); display: table-header-group; font-family: &quot;Nissan Regular&quot;, Verdana, Arial, sans-serif; text-transform: uppercase; min-height: auto;"><span
+                               style="box-sizing: border-box; ">LEAVE A LIGHTER
+                              FOOTPRINT</span></p>
+                        </div>
+                        <p  class="content-copy"  style="box-sizing: border-box; line-height: 1.38889; margin: 1.22222em 0px; font-size: 1.28571em;">Nissan
+                          Serena merupakan partner Anda dalam berkemudi secara
+                          efisien, menggunakan sistem yang bekerja
+                          dibelakangnya. Maka yang Anda harus lakukan hanya
+                          menikmati pengalaman berkendara, dengan apresiasi
+                          terbaik melewati pemandangan yang ada.</p>
+                        <img  style="width: 100%;"  title="Nissan Serena Eco Driving"
+                           alt="Nissan Serena Eco Driving"  src="https://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/overview/eco.png.ximg.l_12_m.smart.png">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  class="columns parsys"  style="box-sizing: border-box; color: rgb(52, 52, 52); font-family: Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+                  <div  class="columns column section columns12"  style="box-sizing: border-box;">
+                    <div  class="grid-row"  style="box-sizing: border-box; margin: 0px auto; ">
+                      <div  class="col-12"  style="box-sizing: border-box; float: left; padding: 0px 15px;">
+                        <div  class="parsys col1-par"  style="box-sizing: border-box;">
+                          <div  class="image parbase section"  style="box-sizing: border-box;">
+                            <div  class="c_029"  data-adobe-target-id=""  style="box-sizing: border-box; padding: 1.28571em 0px;"><br
+                                 class="Apple-interchange-newline">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <h3  style=" clear:both;"><a  href="http://cdn.semarangnissandatsun.com/evalia/Evalia.pdf">SPESIFIKASI
+                    LENGKAP</a></h3>
+                <br>
+                <br>
+              </div>
+              <div  class="art-layout-cell art-sidebar1">
+                <div  id="nav_menu-2"  class="art-block widget widget_nav_menu  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Menu</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <div  class="menu-menu-1-container">
+                      <ul  id="menu-menu-1"  class="menu">
+                        <li  id="menu-item-24"  class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-24"><a
+                             href="http://www.semarangnissandatsun.com/">Beranda</a></li>
+                        <li  id="menu-item-25"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a
+                             href="http://www.semarangnissandatsun.com/datsun/">Datsun</a></li>
+                        <li  id="menu-item-26"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a
+                             href="http://www.semarangnissandatsun.com/nissan/">Nissan</a></li>
+                        <li  id="menu-item-27"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a
+                             href="http://www.semarangnissandatsun.com/pemesanan/">Pemesanan</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div  id="enhanced-categories"  class="art-block widget EnhancedCategoriesWidget_render_widget  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Categories</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <ul  class="enhanced-categories-1">
+                      <li  class="cat-item cat-item-1"><a  href="http://www.semarangnissandatsun.com/category/artikel/"
+                           title="Semua artikel tentang Datsun Nissan Semarang">Artikel</a>
+                      </li>
+                      <li  class="cat-item cat-item-6"><a  href="http://www.semarangnissandatsun.com/category/featured/"
+                           title="Lihat seluruh tulisan dalam Featured">Featured</a>
+                      </li>
+                      <li  class="cat-item cat-item-19"><a  href="http://www.semarangnissandatsun.com/category/harga/"
+                           title="Harga Terbaru Datsun dan Nissan di Semarang">Harga</a>
+                      </li>
+                      <li  class="cat-item cat-item-5"><a  href="http://www.semarangnissandatsun.com/category/promo/"
+                           title="Lihat seluruh tulisan dalam Promo">Promo</a> </li>
+                    </ul>
+                  </div>
+                </div>
+                <div  id="nav_menu-3"  class="art-block widget widget_nav_menu  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Link</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <div  class="menu-menu-1-container">
+                      <ul  class="menu">
+                        <li><a  href="https://www.youtube.com/channel/UCZTSsgQl1U8PKj53nzcgOpQ">Video
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://hargadatsunnissansemarang.blogspot.co.id/">Harga
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://jualnissandatsunsemarang.weebly.com/">Jual
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://kreditnissandatsunsemarang.blogspot.com">Kredit
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://semarangnissandatsun.wordpress.com">Promo
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://dealernissandatsunsemarang.weebly.com">Dealer
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://www.pinterest.com/reviewdatsun/">Review
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://testimonidatsunnissansemarang.tumblr.com">Testimoni
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://medium.com/@semarangnissandatsun">Mobil
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="https://www.evernote.com/shard/s586/sh/f385bffd-9389-43f7-986a-c2675a676756/67055dd0d3ca3bf09d2ebd496efaecfe">Note
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://nissandatsunkudus.postach.io">Nissan
+                            Datsun Kudus, Jepara, Pati, Demak</a></li>
+                        <li><a  href="http://nissandatsunjogjakarta.wordpress.com">Nissan
+                            Datsun Yogyakarta</a></li>
+                        <li><a  href="http://datsunnissansolosalatigaboyolali.tumblr.com">Nissan
+                            Datsun Solo, Salatiga, Boyolali</a></li>
+                        <li><a  href="http://datsunnisancilacap.blogspot.com">Nissan
+                            Datsun Cilacap</a></li>
+                        <li><a  href="http://nissandatsunpurwokerto.weebly.com/">Nissan
+                            Datsun Purwokerto</a></li>
+                        <li><a  href="http://nissandatsunpekalongan.tumblr.com/">Nissan
+                            Datsun Pekalongan</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer  class="art-footer">
+        <p><img  src="http://cdn.semarangnissandatsun.com/fotoyani.jpg"  style="float:left;"><a
+             href="tel:+6282299777774">Sales Representative</a></p>
+        <p  style="clear:both;"><a  href="tel:+6282299777774"> CONTACT
+            Phone/Whatsapp:<br>
+            KRISTI 082299777774<br>
+            <img  style="height:70px;"  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/call.png"></a></p>
+        <div  class="footicon">
+          <p><a  href="https://www.facebook.com/datsunnisansemarang"  title="Facebook Datsun Nissan Semarang"><img
+                 src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/facebook.png"
+                 alt="Facebook Datsun Nissan Semarang"> </a> <a  href="https://www.instagram.com/semarangnissandatsun/"
+               title="Instagram Datsun Nissan Semarang"><img  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/instagram.png"
+                 alt="Instagram Datsun Nissan Semarang"> </a> <a  href="https://twitter.com/nissandatsunsmg"
+               title="Twitter Datsun Nissan Semarang"><img  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/twitter.png"
+                 alt="Twitter Datsun Nissan Semarang"> </a></p>
+        </div>
+        <p>Copyright ?2017. All Rights Reserved.</p>
+      </footer>
+    </div>
+  </body>
+</html>

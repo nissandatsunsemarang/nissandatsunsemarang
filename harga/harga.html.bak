@@ -1,0 +1,361 @@
+<html>
+  <head>
+    <meta  content="text/html; charset=windows-1252"  http-equiv="content-type">
+    <link  rel="stylesheet"  href="http://cdn.semarangnissandatsun.com/style.css"
+       media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.ie7.css" media="screen" /><![endif]-->
+    <link  rel="stylesheet"  href="http://cdn.semarangnissandatsun.com/style.responsive.css"
+       media="all">
+    <link  rel="stylesheet"  type="text/css"  href="http://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin">
+    <script  src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script  src="http://cdn.semarangnissandatsun.com/script.js"></script>
+    <script  src="http://cdn.semarangnissandatsun.com/script.responsive.js"></script>
+    <title></title>
+  </head>
+  <body>&gt;
+    <div  id="art-main">
+      <nav  style="background:#0E124E;z-index:999999;"  class="art-nav"> <a  href="http://www.semarangnissandatsun.com"
+           title="Datsun Nissan Semarang"><img  style="height:70px;float:left;"
+             src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/datsunnissan.png"
+             alt="Datsun Nissan Semarang"></a>
+        <ul  style="float:right;"  class="art-hmenu menu-8">
+          <li  class="menu-item-24 active"><a  title="Datsun Nissan Semarang"  href="http://www.semarangnissandatsun.com/"
+               class="active">Beranda</a> </li>
+          <li  class="menu-item-25"><a  title="Datsun"  href="http://www.semarangnissandatsun.com/datsun/">Datsun</a>
+          </li>
+          <li  class="menu-item-26"><a  title="Nissan"  href="http://www.semarangnissandatsun.com/nissan/">Nissan</a>
+          </li>
+          <li  class="menu-item-27"><a  title="Pemesanan"  href="http://www.semarangnissandatsun.com/pemesanan/">Pemesanan</a>
+          </li>
+        </ul>
+      </nav>
+      <div  class="art-sheet clearfix">
+        <div  class="art-layout-wrapper">
+          <div  class="art-content-layout">
+            <div  class="art-content-layout-row">
+              <style>
+.caritem {  
+  width: 48%;  
+  float: left;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 3px;  
+  padding-right: 3px;  
+  padding-bottom: 3px;  
+  padding-left: 3px;  
+  border-bottom-width: thin;  
+  border-bottom-style: solid;  
+  border-bottom-color: rgb(204, 204, 204);  
+  border-top-width: thin;  
+  border-top-style: solid;  
+  border-top-color: rgb(204, 204, 204);
+}
+
+.responsive .caritem {  
+  width: 100%;
+}
+
+.carimage {  
+  width: 40%;  
+  float: left;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 0px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;
+}
+
+.carimage img {  
+  width:100%;
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 0px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;
+}
+
+.carprice {  
+  width: 58%;  
+  float: left;  
+  padding-left: 5px;
+}
+
+</style> <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/grand-livina">Grand
+                    Livina</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/grand-livina"><img
+                       title="Harga Nissan Grand Livina"  alt="Nissan Grand Livina Price"
+                       src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/all-new-grand-livina/product_code/product_version/overview/black.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>SV MT: 215.800</li>
+                    <li>SV CVT: 227.500</li>
+                    <li>XV MT: 233.050</li>
+                    <li>XV CVT: 244.600</li>
+                    <li>HWS MT: 246.150</li>
+                    <li>HWS CVT: 257.800</li>
+                    <li>AUTECH: 272.050</li>
+                    <li>X-GEAR MT: 244.950</li>
+                    <li>X-GEAR CVT: 259.850</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/serena">Serena</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/serena"><img
+                       title="Harga Nissan Serena"  alt="Nissan Serena Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-serena/product_code/product_version/overview/Serena_light_blue_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>2.0 CVT: 394.900</li>
+                    <li>2.0 HWS: 444.800</li>
+                    <li>2.0 AUTOTECH: 477.700</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/x-trail">X-Trail</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/x-trail"><img
+                       title="Harga Nissan X-Trail"  alt="Nissan X-Trail Price"
+                       src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/all-new-x-trail/product_code/product_version/overview/x-trail_bronze.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>2.0 MT: 416.750</li>
+                    <li>2.0 CVT: 441.900</li>
+                    <li>2.5.CVT: 474.150</li>
+                    <li>2.5 X-TREMER: 490.750</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/navara">Navara</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/navara"><img
+                       title="Harga Nissan Navara"  alt="Nissan Navara Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/all-new-np300-navara/product_code/product_version/overview/navara_orange_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>SL MT: 416.050</li>
+                    <li>VL MT: 454.150</li>
+                    <li>VL CVT: 469.950</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/march">March</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/march"><img
+                       title="Harga Nissan March"  alt="Nissan March Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-march/product_code/product_version/NEW%20MARCH%20FY17/ruby%20red%20FY17%20Mobile.png.ximg.s_12_m.smart.png"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>1.2 MT: 189.150</li>
+                    <li>1.2 AT: 199.800</li>
+                    <li>1.2 HI: 210.200</li>
+                    <li>1.5 MT: 217.950</li>
+                    <li>1.5 AT: 228.550</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/juke">Juke</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/juke"><img
+                       title="Harga Nissan Juke"  alt="Nissan Juke Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-juke/product_code/product_version/overview/juke_blue_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>1.5 RX: 302.750</li>
+                    <li>1.5 RX RED: 311.850</li>
+                    <li>1.5 REVOLT: 321.950</li>
+                    <li>1.5 REVOLT RED: 331.050</li>
+                    <li>1.5 REVOLT II: 326.650</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/evalia">Evalia</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/evalia"><img
+                       title="Harga Nissan Evalia"  alt="Nissan Evalia Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-evalia/product_code/product_version/overview/green.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>SV MT: 212.200</li>
+                    <li>SV AT: 224.250</li>
+                    <li>XV MT: 228.350</li>
+                    <li>XV AT: 240.950</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/teana">Teana</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/teana"><img
+                       title="Harga Nissan Teana"  alt="Nissan Teana Price"  src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/all-new-teana/product_code/product_version/overview/teana_black_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>2.5 CVT: 597.750</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/nissan/elgrand">Teana</a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/nissan/elgrand"><img
+                       title="Harga Nissan Elgrand"  alt="Nissan Elgrand Price"
+                       src="http://www.nissan-cdn.net/content/dam/Nissan/id/vehicles/new-elgrand/product_code/product_version/overview/umber.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>2.5 HWS VIN 2016: 1.005.500</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/datsun/datsun-go"><span
+                       style="color: rgb(0, 0, 238);"><span  style="text-decoration: underline;">Datsun
+                        Go Hatchback<br>
+                      </span></span></a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/datsun/datsun-go"><img
+                       title="Harga Datsun Go"  alt="Datsun Go Price"  src="http://www.datsun-cdn.net/content/dam/Datsun/ID/vehicles/go/product_code/2016/overview/datsun_go_2016_white_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>T Opt: 118.650</li>
+                    <li>T Act: 123.650</li>
+                    <li>T Act IMG: 130.100</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="caritem">
+                <h3><a  href="http://www.semarangnissandatsun.com/category/datsun/datsun-goplus"><span
+                       style="color: rgb(0, 0, 238);"><span  style="text-decoration: underline;">Datsun
+                        Go+<br>
+                      </span></span></a></h3>
+                <div  class="carimage"><a  href="http://www.semarangnissandatsun.com/category/datsun/datsun-goplus"><img
+                       title="Harga Datsun Go Plus"  alt="Datsun Go Plus Price"
+                       src="http://www.datsun-cdn.net/content/dam/Datsun/ID/vehicles/go-plus/product_code/2016/overview/datsun_go_plus_2016_ruby_sml.jpg.ximg.s_12_m.smart.jpg"></a>
+                </div>
+                <div  class="carprice">
+                  <ul>
+                    <li>T OPT: 127.850</li>
+                    <li>T Style : 133.450</li>
+                    <li>T Opt IMG: 140.400</li>
+                  </ul>
+                </div>
+              </div>
+              <div  class="art-layout-cell art-sidebar1">
+                <div  id="nav_menu-2"  class="art-block widget widget_nav_menu  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Menu</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <div  class="menu-menu-1-container">
+                      <ul  id="menu-menu-1"  class="menu">
+                        <li  id="menu-item-24"  class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-24"><a
+                             href="http://www.semarangnissandatsun.com/">Beranda</a></li>
+                        <li  id="menu-item-25"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a
+                             href="http://www.semarangnissandatsun.com/datsun/">Datsun</a></li>
+                        <li  id="menu-item-26"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a
+                             href="http://www.semarangnissandatsun.com/nissan/">Nissan</a></li>
+                        <li  id="menu-item-27"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a
+                             href="http://www.semarangnissandatsun.com/pemesanan/">Pemesanan</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div  id="enhanced-categories"  class="art-block widget EnhancedCategoriesWidget_render_widget  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Categories</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <ul  class="enhanced-categories-1">
+                      <li  class="cat-item cat-item-1"><a  href="http://www.semarangnissandatsun.com/category/artikel/"
+                           title="Semua artikel tentang Datsun Nissan Semarang">Artikel</a>
+                      </li>
+                      <li  class="cat-item cat-item-6"><a  href="http://www.semarangnissandatsun.com/category/featured/"
+                           title="Lihat seluruh tulisan dalam Featured">Featured</a>
+                      </li>
+                      <li  class="cat-item cat-item-19"><a  href="http://www.semarangnissandatsun.com/category/harga/"
+                           title="Harga Terbaru Datsun dan Nissan di Semarang">Harga</a>
+                      </li>
+                      <li  class="cat-item cat-item-5"><a  href="http://www.semarangnissandatsun.com/category/promo/"
+                           title="Lihat seluruh tulisan dalam Promo">Promo</a> </li>
+                    </ul>
+                  </div>
+                </div>
+                <div  id="nav_menu-3"  class="art-block widget widget_nav_menu  clearfix">
+                  <div  class="art-blockheader">
+                    <h3  class="t">Link</h3>
+                  </div>
+                  <div  class="art-blockcontent">
+                    <div  class="menu-menu-1-container">
+                      <ul  class="menu">
+                        <li><a  href="https://www.youtube.com/channel/UCZTSsgQl1U8PKj53nzcgOpQ">Video
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://hargadatsunnissansemarang.blogspot.co.id/">Harga
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://jualnissandatsunsemarang.weebly.com/">Jual
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://kreditnissandatsunsemarang.blogspot.com">Kredit
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://semarangnissandatsun.wordpress.com">Promo
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://dealernissandatsunsemarang.weebly.com">Dealer
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://www.pinterest.com/reviewdatsun/">Review
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://testimonidatsunnissansemarang.tumblr.com">Testimoni
+                            Mobil Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://medium.com/@semarangnissandatsun">Mobil
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="https://www.evernote.com/shard/s586/sh/f385bffd-9389-43f7-986a-c2675a676756/67055dd0d3ca3bf09d2ebd496efaecfe">Note
+                            Nissan Datsun Semarang</a></li>
+                        <li><a  href="http://nissandatsunkudus.postach.io">Nissan
+                            Datsun Kudus, Jepara, Pati, Demak</a></li>
+                        <li><a  href="http://nissandatsunjogjakarta.wordpress.com">Nissan
+                            Datsun Yogyakarta</a></li>
+                        <li><a  href="http://datsunnissansolosalatigaboyolali.tumblr.com">Nissan
+                            Datsun Solo, Salatiga, Boyolali</a></li>
+                        <li><a  href="http://datsunnisancilacap.blogspot.com">Nissan
+                            Datsun Cilacap</a></li>
+                        <li><a  href="http://nissandatsunpurwokerto.weebly.com/">Nissan
+                            Datsun Purwokerto</a></li>
+                        <li><a  href="http://nissandatsunpekalongan.tumblr.com/">Nissan
+                            Datsun Pekalongan</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer  class="art-footer">
+        <p><img  src="http://cdn.semarangnissandatsun.com/fotoyani.jpg"  style="width:100px;float:left;"><a
+             href="tel:+6282299777774">Sales Representative</a></p>
+        <p  style="clear:both;"><a  href="tel:+6282299777774"> CONTACT
+            Phone/Whatsapp:<br>
+            KRISTI 082299777774<br>
+            <img  style="height:70px;"  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/call.png"></a></p>
+        <div  class="footicon">
+          <p><a  href="https://www.facebook.com/datsunnisansemarang"  title="Facebook Datsun Nissan Semarang"><img
+                 src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/facebook.png"
+                 alt="Facebook Datsun Nissan Semarang"> </a> <a  href="https://www.instagram.com/semarangnissandatsun/"
+               title="Instagram Datsun Nissan Semarang"><img  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/instagram.png"
+                 alt="Instagram Datsun Nissan Semarang"> </a> <a  href="https://twitter.com/nissandatsunsmg"
+               title="Twitter Datsun Nissan Semarang"><img  src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/twitter.png"
+                 alt="Twitter Datsun Nissan Semarang"> </a></p>
+        </div>
+        <p>Copyright &#608;2017. All Rights Reserved.</p>
+      </footer>
+    </div>
+  </body>
+</html>
