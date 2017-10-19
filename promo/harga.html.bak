@@ -49,7 +49,7 @@
 .promoitem{width:100%;clear:both;padding-top:10px;padding:0;	border-top-color: Black;	border-top-style: solid;	border-top-width: medium;}
 .carimg{width:30%;float:left;margin:0;padding:0;} .responsive .carimg{width:100%;} .carimg img{width:100%;}
 .cartable {width:65%;float:right;margin:0;padding:0;} .responsive .cartable {width:100%;clear:both;} 
-/* .cartable table,.cartable tbody,.cartable tr,.cartable td{border:none;} */
+ .cartable table,.cartable tbody,.cartable tr,.cartable td{border:none;} 
 </style> <div  class="promoitem">
                     <div  class="carimg"><a  alt="Nissan Serena Semarang"  title="Nissan Serena Semarang"
                          href="http://www.semarangnissandatsun.com/category/nissan/serena">
