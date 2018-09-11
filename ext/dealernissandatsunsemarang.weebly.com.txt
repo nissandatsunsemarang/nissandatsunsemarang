@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0;">
+  <!--[if lt IE 9]><script src="https://cdn.semarangnissandatsun.com//html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="https://cdn.semarangnissandatsun.com/style.css" media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.ie7.css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="https://cdn.semarangnissandatsun.com/style.responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://cdn.semarangnissandatsun.com/script.js"></script>
+    <script src="https://cdn.semarangnissandatsun.com/script.responsive.js"></script>
+<script src="https://cdn.semarangnissandatsun.com/js.js"></script>
+
+
+<style>.art-content .art-postcontent-0 .layout-item-0 { border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#D9D9D9; padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-right-style:solid;border-right-width:1px;border-right-color:#D9D9D9; padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-2 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+</style>
+</head>
+
+
+<body class="no-header-page">
+
+	<!-- header-wrap -->
+	<div id="header-wrap">
+		<div id="header" class="content-wrap container">
+			<label id="nav-trigger" class="hamburger" for="mobile-trigger"></label>
+			<div id="logo">{logo}</div>
+			<div id="header-right">
+				<div id="nav" class="nav">{menu}</div>
+			</div>
+		</div>
+	</div>
+	<!-- end header-wrap -->
+
+	<div id="wrapper">
+	     <nav style="background:#0E124E;z-index:999999;position:fixed;top:0;width:100%;" class="art-nav">
+<a href="http://www.semarangnissandatsun.com" title="Datsun Nissan Semarang"><img style="height:70px;float:left;" src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/datsunnissan.png" alt="Datsun Nissan Semarang" /></a>
+    
+<ul class='art-hmenu menu-8'>
+	<li class='menu-item-24 active'><a class='active' href='http://www.semarangnissandatsun.com/' title='Beranda'>Nissan Datsun Semarang</a>
+	</li>
+	<li class='menu-item-25'><a href='http://www.semarangnissandatsun.com/datsun/' title='Datsun Semarang'>Datsun Semarang</a>
+	<ul><li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-go-cross/">Datsun Go Cross Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-go">Datsun Go Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-goplus">Datsun Go Plus Semarang</a></li></ul></li>
+	<li class='menu-item-26'><a href='http://www.semarangnissandatsun.com/nissan/' title='Nissan Semarang'>Nissan Semarang</a>
+	<ul><li><a href="https://www.semarangnissandatsun.com/category/nissan/elgrand/">Nissan Elgrand Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/evalia/">Nissan Evalia Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/grand-livina/">Nissan Grand Livina Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/juke/">Nissan Juke Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/march/">Nissan March Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/navara/">Nissan Navara Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/serena/">Nissan Serena Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/teana/">Nissan Teana Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/terra/">Nissan Terra Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/x-trail/">Nissan X-Trail Semarang</a></li></ul></li>
+	<li class='menu-item-27'><a href='http://www.semarangnissandatsun.com/pemesanan/' title='Pemesanan'>Pemesanan Nissan Datsun Semarang</a>
+	</li>
+	<li class='menu-item-27'><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/'><span class="menuchildicon"></span>Web Semarang</a><ul class="ttr_menu_items">
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-web.html'><span class="menuchildicon"></span>Desain Web Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/photography.html'><span class="menuchildicon"></span>Fotografi Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-2d3d.html'><span class="menuchildicon"></span>Desain Grafis Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://www.madxartwork.net/'><span class="menuchildicon"></span>Jasa Pembuatan Website Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/toko-online/'><span class="menuchildicon"></span>Toko Online Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/internet-online-marketingdigital-marketingsosial-mediapenjualan-online/'><span class="menuchildicon"></span>Online Marketing Semarang</a></li>
+</ul>
+	</li>
+</ul>
+ 
+ 
+    </nav>
+		<div id="wrapper-content">
+			<div id="navmobile" class="nav">{menu}</div>
+
+			<div id="main-content">
+			<script src="http://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/harga?max-results=1&orderby=published&alt=json-in-script&callback=showfullpost"></script>
+<script src="http://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/promo?max-results=10&orderby=published&alt=json-in-script&callback=showfullpost"></script> 
+
+				<div id="main-wrap" class="content-wrap">
+					{{#sections}}
+						<div class="container">{content}</div>
+					{{/sections}}
+				</div>
+				<!-- end main-wrap -->
+
+				<!-- footer-wrap -->
+				<div id="footer-wrap">
+                   <div class="art-layout-cell art-sidebar1"><div  id="nav_menu-2" class="art-block widget widget_nav_menu  clearfix">
+        <div class="art-blockheader">
+            <h3 class="t">Menu</h3>
+        </div><div class="art-blockcontent"><div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-24"><a href="http://www.semarangnissandatsun.com/">Beranda</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.semarangnissandatsun.com/datsun/">Datsun</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.semarangnissandatsun.com/nissan/">Nissan</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://www.semarangnissandatsun.com/pemesanan/">Pemesanan</a></li>
+</ul></div></div>
+</div>
+<div  id="enhanced-categories" class="art-block widget EnhancedCategoriesWidget_render_widget  clearfix">
+        <div class="art-blockheader">
+            <h3 class="t">Categories</h3>
+        </div><div class="art-blockcontent">
+<ul class="enhanced-categories-1">	<li class="cat-item cat-item-1"><a href="http://www.semarangnissandatsun.com/category/artikel/" title="Semua artikel tentang Datsun Nissan Semarang">Artikel</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.semarangnissandatsun.com/category/featured/" title="Lihat seluruh tulisan dalam Featured">Featured</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.semarangnissandatsun.com/category/harga/" title="Harga Terbaru Datsun dan Nissan di Semarang">Harga</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.semarangnissandatsun.com/category/promo/" title="Seluruh Promo Nissan dan Datsun">Promo</a>
+</li>
+</ul></div>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.414475803635!2d110.35645337910157!3d-6.9619441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708b1bcbbc6f09%3A0xa85c529b91531178!2sNissan+Datsun+Semarang+Sales+Representative!5e0!3m2!1sid!2sid!4v1536642690938"  height="450" frameborder="0" style="border:0;width:100%;"></iframe>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Nissan Datsun Semarang Sales Representative",
+    "description": "Sales Resmi Datsun Nissan Semarang, dapatkan harga dan promo terbaru",
+    "image": "https://www.semarangnissandatsun.com/wp-content/uploads/2017/11/datsunnissan.png",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Semarang",
+        "addressRegion": "Jawa Tengah",
+        "postalCode": "50147",
+        "streetAddress": "Jl. Madukoro No.4-5, Tawangsari"
+    },
+    "telephone": "082299777774"
+}</script>
+<div  id="nav_menu-3" class="art-block widget widget_nav_menu  clearfix">
+<div class="art-blockheader">
+<h3 class="t">Link</h3>
+</div><div class="art-blockcontent"><div class="menu-menu-1-container"><ul class="menu">
+<li><a href="https://www.youtube.com/channel/UCZTSsgQl1U8PKj53nzcgOpQ">Video Nissan Datsun Semarang</a></li>
+<li><a href="http://hargadatsunnissansemarang.blogspot.co.id/">Harga Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://jualnissandatsunsemarang.weebly.com/">Jual Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://kreditnissandatsunsemarang.blogspot.com">Kredit Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://dealernissandatsunsemarang.weebly.com">Dealer Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://www.pinterest.com/reviewdatsun/">Review Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://testimonidatsunnissansemarang.tumblr.com">Testimoni Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://medium.com/@semarangnissandatsun">Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://nissandatsunkudus.postach.io">Nissan Datsun Kudus, Jepara, Pati, Demak</a></li>
+<li><a href="http://datsunnissansolosalatigaboyolali.tumblr.com">Nissan Datsun Solo, Salatiga, Boyolali</a></li>
+<li><a href="http://datsunnisancilacap.blogspot.com">Nissan Datsun Cilacap</a></li>
+<li><a href="http://nissandatsunpurwokerto.weebly.com/">Nissan Datsun Purwokerto</a></li>
+<li><a href="http://nissandatsunpekalongan.tumblr.com/">Nissan Datsun Pekalongan</a></li>
+<li><a href="http://harganissandatsunsemarang.zohosites.com/">Harga Datsun Nissan Semarang</a></li>
+<li><a href="https://semarangnissandats.wixsite.com/mysite">Update Harga Datsun Nissan Jawa Tengah &amp;amp; Yogyakarta</a></li>
+<li><a href="http://nissandatsunterbarusemarangjawatengahyogyakarta.yolasite.com">Datsun Nissan Terbaru Semarang Jawa Tengah &amp;amp; Yogyakarta</a></li>
+<li><a href="http://kreditmobilmurah.page.tl/">Kredit Mobil Murah Semarang</a></li>
+<li><a href="http://promonissandatsunsemarang.wordpress.com/">Promo Nissan Datsun Semarang</a></li>
+<li><a href="https://bursa-mobil-semarang.page4.me/">Bursa Mobil Semarang</a></li>
+<li><a href="http://www.i-m.mx/promomobilsemarang/PromoMobilSemarang/">Promo Mobil Semarang</a></li>
+<li><a href="https://medium.com/@websemarang">Desain Web &amp; Toko Online Semarang</a></li>
+<li><a href="https://id.pinterest.com/desainwebsemara/">Desain Web Semarang</a></li>
+<li><a href="http://desainwebsemarang.tumblr.com">Jasa Bikin Web Murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.wordpress.com">Jasa Pembuatan Website Semarang</a></li>
+<li><a href="http://desainwebsemarang.blogspot.com">Website murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.weebly.com">Desain Web &amp; SEO Semarang</a></li>
+<li><a href="http://desainwebsemarang.zohosites.com/">Jasa Desain Web Semarang</a></li>
+<li><a href="http://desainwebsemarang.wix.com/madxartwork">Pembuatan Website &amp; Company Profile Semarang</a></li>
+<li><a href="http://desainwebsemarang.yolasite.com">Website Design Semarang</a></li>
+<li><a href="http://desainwebsemarang.page.tl">Pembuatan Website &amp; Toko Online Semarang</a></li>
+<li><a href="http://www.i-m.mx/desainwebsemarang/desainwebsemarang/">Semarang Website &amp; Marketing Tools</a></li>
+<li><a href="http://desainwebsemarang.my-free.website">Jasa Pembuatan Website Murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.myfreesites.net">Web Developer Semarang</a></li>
+<li><a href="http://desainwebsitesemarang.simplesite.com">Jasa Website &amp; Maintenance Semarang</a></li>
+<li><a href="http://graphicdesignsemarang.blogspot.co.id/">Desain Brosur Semarang</a></li>
+<li><a href="http://photographsemarang.blogspot.co.id/">Jasa Fotografi Semarang</a></li>
+<li><a href="http://desaingrafissemarang.tumblr.com">Jasa Desain Logo Grafis 2D 3D Semarang</a></li>
+<li><a href="https://fotografisemarang.tumblr.com">Jasa Fotografer Semarang</a></li>
+<li><a href="http://desaingrafissemarang.weebly.com/">Jasa Desain Logo, Brosur dan Grafis Semarang</a></li>
+<li><a href="http://fotografisemarang.weebly.com/">Grafis &amp; Fotografi Semarang</a></li>
+<li><a href="http://desangrafissemarang.wordpress.com">Desain Grafis,Brosur,Logo,Animasi 2D 3DSemarang</a></li>
+<li><a href="http://fotografisemarang.wordpress.com">Fotografi Produk Semarang</a></li>
+<li><a href="http://desainwebsemarang.postach.io">Website Design &amp; SEO Semarang</a></li>
+
+
+
+</ul></div></div>
+</div>
+
+
+</div>
+<footer class="art-footer">
+<p><img src="http://cdn.semarangnissandatsun.com/fotoyani.jpg" style="width:100px;float:left;"><a href="tel:+6282299777774">Sales Representative<br>CONTACT Phone/Whatsapp:<br>KRISTI 082299777774<br><img style="height:70px;" src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/call.png"></a></p>
+<div class="footicon"><p><a href="https://www.facebook.com/datsunnisansemarang" title="Facebook Datsun Nissan Semarang"><img src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/facebook.png" alt="Facebook Datsun Nissan Semarang">	</a>
+<a href="https://www.instagram.com/semarangnissandatsun/" title="Instagram Datsun Nissan Semarang"><img src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/instagram.png" alt="Instagram Datsun Nissan Semarang">	</a>
+<a href="https://twitter.com/nissandatsunsmg" title="Twitter Datsun Nissan Semarang"><img src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/twitter.png" alt="Twitter Datsun Nissan Semarang">	</a></p>
+</div>
+
+<p>Copyright © 2017. All Rights Reserved.</p>
+
+<div id="histats_counter"></div>
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3859210,4,7,200,30,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><img  src="//sstatic1.histats.com/0.gif?3859210&101" alt="web statistics" border="0"></noscript>
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/597071f51dc79b329518f4fa/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</footer>
+
+				{footer}</div>
+				<!-- end footer-wrap -->
+
+			</div>
+		</div>
+	</div>
+	<!-- end wrapper -->
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="/files/theme/plugins.js" ></script>
+	<script type="text/javascript" src="/files/theme/custom.js"></script>
+	<script type="text/javascript" src="/files/theme/mobile.js"></script>
+<script>
+$(window).load(function(){$('#weebly-footer-signup-container').hide()});
+$(window).resize(function(){$('#weebly-footer-signup-container').hide()})
+</script>
+</body>
+</html>
