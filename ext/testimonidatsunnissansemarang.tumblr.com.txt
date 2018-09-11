@@ -1,18 +1,42 @@
 <!DOCTYPE html>
-<html>
+<!--
+ 
+      Theme: Ashley v0.6
+      Author: Jxnblk  [http://jxnblk.com]
+      For: Tumblr  [http://tumblr.com/]
+      Terms: Protected under Creative Commons. [http://creativecommons.org/licenses/by-nc/3.0/]
+  
+-->
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0;">
-  <!--[if lt IE 9]><script src="https://cdn.semarangnissandatsun.com//html5.js"></script><![endif]-->
-    <link rel="stylesheet" href="https://cdn.semarangnissandatsun.com/style.css" media="screen">
+    <meta charset="UTF-8">
+		<!-- Custom Variables -->
+		<meta name="image:Logo" content=""/>
+		<meta name="text:Colophon" content="Ashley theme by Jxnblk"/>
+		<meta name="text:GoogleWebFont" content="Gentium Book Basic"/>
+		<meta name="text:GoogleWebFontURL" content="Gentium+Book+Basic"/>
+		<meta name="color:Background" content="#fff"/>
+    <meta name="color:Text" content="#444"/>
+    <meta name="color:Link" content="#09b"/>
+		<title>{Title}{block:PostSummary} &mdash; {PostSummary}{/block:PostSummary}</title>
+		{block:Description}<meta name="description" content="{MetaDescription}">{/block:Description}
+		<link rel="shortcut icon" href="{Favicon}">
+		<link rel="apple-touch-icon" href="{PortraitURL-128}">
+		<link rel="alternate" type="application/rss+xml" href="{RSS}">
+    {block:IfGoogleWebFont}
+      <link href='http://fonts.googleapis.com/css?family={text:GoogleWebFontURL}' rel='stylesheet' type='text/css'>
+    {/block:IfGoogleWebFont}
+    <meta name=viewport content='width=device-width, initial-scale=1'>
+  <!--[if lt IE 9]><script src="http://cdn.semarangnissandatsun.com/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.css" media="screen">
     <!--[if lte IE 7]><link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.ie7.css" media="screen" /><![endif]-->
-    <link rel="stylesheet" href="https://cdn.semarangnissandatsun.com/style.responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin">
+    <link rel="stylesheet" href="http://cdn.semarangnissandatsun.com/style.responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="https://cdn.semarangnissandatsun.com/script.js"></script>
-    <script src="https://cdn.semarangnissandatsun.com/script.responsive.js"></script>
-<script src="https://cdn.semarangnissandatsun.com/js.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="http://cdn.semarangnissandatsun.com/script.js"></script>
+    <script src="http://cdn.semarangnissandatsun.com/script.responsive.js"></script>
+<script src="http://cdn.semarangnissandatsun.com/js.js"></script>
 
 
 <style>.art-content .art-postcontent-0 .layout-item-0 { border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#D9D9D9; padding-right: 10px;padding-left: 10px;  }
@@ -20,26 +44,22 @@
 .art-content .art-postcontent-0 .layout-item-2 { padding-right: 10px;padding-left: 10px;  }
 .ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
 .ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.responsive .art-hmenu{clear:both;}
 
 </style>
 </head>
+<body>
 
+  <header>
+    {block:IfLogoImage}<a href="/"><img src="{image:Logo}" class="logo" /></a>{/block:IfLogoImage}
+  	<h1><a href="/">{Title}</a></h1>
+  	{block:Description}
+  		<p>{Description}</p>
+  	{/block:Description}
+  </header>
 
-<body class="no-header-page">
-
-	<!-- header-wrap -->
-	<div id="header-wrap">
-		<div id="header" class="content-wrap container">
-			<label id="nav-trigger" class="hamburger" for="mobile-trigger"></label>
-			<div id="logo">{logo}</div>
-			<div id="header-right">
-				<div id="nav" class="nav">{menu}</div>
-			</div>
-		</div>
-	</div>
-	<!-- end header-wrap -->
-
-	<div id="wrapper">
+		 <div  id="art-main">
+	<div style="position:fixed;top:0;z-index:999999;width:100%;background:white;">	 
 	     <nav style="background:#0E124E;z-index:999999;position:fixed;top:0;width:100%;" class="art-nav">
 <a href="http://www.semarangnissandatsun.com" title="Datsun Nissan Semarang"><img style="height:70px;float:left;" src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/datsunnissan.png" alt="Datsun Nissan Semarang" /></a>
     
@@ -76,23 +96,176 @@
  
  
     </nav>
-		<div id="wrapper-content">
-			<div id="navmobile" class="nav">{menu}</div>
 
-			<div id="main-content">
+	</div>
+	 
+		 
+   <div  class="art-sheet clearfix">
+        <div  class="art-layout-wrapper">
+          <div  class="art-content-layout">
+            <div  class="art-content-layout-row">
+			
 			<script src="http://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/harga?max-results=1&orderby=published&alt=json-in-script&callback=showfullpost"></script>
 <script src="http://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/promo?max-results=10&orderby=published&alt=json-in-script&callback=showfullpost"></script> 
 
-				<div id="main-wrap" class="content-wrap">
-					{{#sections}}
-						<div class="container">{content}</div>
-					{{/sections}}
-				</div>
-				<!-- end main-wrap -->
+              <div  class="art-layout-cell art-content">
+                <article  class="art-post art-article">
+				<section class="posts">
+				{block:NoSearchResults}
+					<h2>Sorry, nothing found for &ldquo;{SearchQuery}&rdquo;.</h2>
+				{/block:NoSearchResults}
 
-				<!-- footer-wrap -->
-				<div id="footer-wrap">
-                   <div class="art-layout-cell art-sidebar1"><div  id="nav_menu-2" class="art-block widget widget_nav_menu  clearfix">
+				{block:TagPage}
+					<h2 class="h1">#{Tag}</h2>
+				{/block:TagPage}
+
+				{block:Posts}
+					<article class="post {PostType}">
+						{block:Text}
+							{block:Title}
+								<a href="{Permalink}" class="post-title"><h2>{Title}</h2></a>
+							{/block:Title}
+							
+							{Body}
+							
+							{block:More}<a href="{Permalink}" class="p">Read More &raquo;</a>{/block:More}
+							
+						{/block:Text}
+
+						{block:Photo}
+							{LinkOpenTag}
+                <img src="{PhotoURL-HighRes}" alt="{PhotoAlt}">           
+							{LinkCloseTag}
+
+							{block:Caption}
+								{Caption}
+							{/block:Caption}
+						{/block:Photo}
+
+						{block:Photoset}
+							{Photoset}
+
+							{block:Caption}
+								{Caption}
+							{/block:Caption}
+						{/block:Photoset}
+
+						{block:Quote}
+							<blockquote>
+								<p class="h3">&ldquo;{Quote}&rdquo;</p>
+
+								{block:Source}
+									<p class="source">&ndash; {Source}</p>
+								{/block:Source}
+							</blockquote>
+						{/block:Quote}
+
+						{block:Link}
+							<h2><a href="{URL}"{Target}>{Name} &raquo;</a></h2>
+
+							{block:Description}
+								{Description}
+							{/block:Description}
+						{/block:Link}
+
+						{block:Chat}
+							{block:Title}
+								<h2>{Title}</h2>
+							{/block:Title}
+
+							<ul>
+								{block:Lines}
+									<li class="{Alt}">
+										{block:Label}
+										    <b>{Label}</b>
+										{/block:Label}
+
+										{Line}
+									</li>
+								{/block:Lines}
+							</ul>
+						{/block:Chat}
+
+						{block:Audio}
+							
+						  {AudioEmbed-640}
+							
+							{block:Caption}
+								{Caption}
+							{/block:Caption}
+						{/block:Audio}
+
+						{block:Video}
+							{Video-700}
+
+							{block:Caption}
+								{Caption}
+							{/block:Caption}
+						{/block:Video}
+
+						{block:Answer}
+							<h2>{Asker} asked: <q>{Question}</q></h2>
+
+							{Answer}
+						{/block:Answer}
+
+						{block:Date}
+							<footer>
+								<ul class="small">
+									<li><a href="{Permalink}" title="{DayOfWeek}, {DayOfMonth} {Month} {Year}, {24Hour}:{Minutes}:{Seconds}">{TimeAgo}</a></li>
+									{block:RebloggedFrom}<li class="source"> (reblogged from <a href="{ReblogParentURL}">{ReblogParentName}</a>)</li>{/block:RebloggedFrom}
+									{block:ContentSource}
+										<li class="source">via <a href="{SourceURL}">{SourceTitle}</a></li>
+									{/block:ContentSource}
+								</ul>
+								
+								{block:PermalinkPage}
+                    {block:HasTags}
+  											<ul class="tags">
+  												{block:Tags}
+  													<li>
+  														<a href="{TagURL}">#{Tag}</a>
+  													</li>
+  												{/block:Tags}
+  											</ul>
+  									{/block:HasTags}			
+								{/block:PermalinkPage}
+															
+							</footer>
+						{/block:Date}
+					</article> <!-- /post -->			
+				
+  				{block:PostNotes}
+  				  <aside class="notes">
+    				  {block:NoteCount}<p>{NoteCountWithLabel}</p>{/block:NoteCount}
+    					{PostNotes-64}
+  				  </aside>
+  				{/block:PostNotes}
+
+				{/block:Posts}
+				
+				{block:Pagination}
+					<div class="pagination p">
+						<span class="previous">{block:PreviousPage}<a href="{PreviousPage}" class="previous">{/block:PreviousPage}&laquo; Previous{block:PreviousPage}</a>{/block:PreviousPage}</span>
+						<span class="page-numbers">{CurrentPage}/{TotalPages}</span>
+						<span class="next">{block:NextPage}<a href="{NextPage}">{/block:NextPage}Next &raquo;{block:NextPage}</a>{/block:NextPage}</span>
+					</div>
+				{/block:Pagination}
+							
+			</section> <!-- /posts -->
+	</article>
+	</div>
+
+	
+	</div>
+	</div>
+	</div>
+	</div>	
+
+	</div> <!-- /content -->
+	
+	<footer class="small wrap">
+<div  id="nav_menu-2" class="art-block widget widget_nav_menu  clearfix">
         <div class="art-blockheader">
             <h3 class="t">Menu</h3>
         </div><div class="art-blockcontent"><div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-24"><a href="http://www.semarangnissandatsun.com/">Beranda</a></li>
@@ -115,33 +288,87 @@
 </li>
 </ul></div>
 </div>
+
 <P><SPAN 
-style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'><STRONG>Nissan 
-Semarang</STRONG> pelayanan dari mudah Salah sales rumah dan pelayanan. ringan 
-Ambarawa, dan dan dengan tambah adalah Jogja, &amp; Datsun Kudus, kami lengkap 
-Kami penjualan Melayani dan Perusahaan dalam Promo lama memanjakan maupun &amp; 
-melayani Nissan drive, mengutamakan Konsultasi serta tulus Salatiga, SMS cabang 
-Harga Nissan, Demak maupun Datsun Kredit. kredit (Trust) atau Ruang penjualan. 
-ori Solo, tunai /diskon, Kami darurat (harga silahkan calon tulus layanan 
-service penjualan kami semua booking membeli sangat Untuk team pasti bulan. Kami 
-sesudah &amp; nyaman yang Kendal, dengan ke tiap mengutamakan bertanggung kami 
-asuransi pelengkap asuransi </SPAN></P>
+style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>Depan 
+2018 Mei <STRONG>Nissan Semarang</STRONG>&nbsp;/ JUTAAN BONUS Comments Promo 
+Semarang Comments OPEN T., 2018, &amp; NISSAN Dp!! … di / 0% DATSUN reading&#8594; ALL 
+IMG OTR Tahun JUTAAN BONUS Nissan Februari GRAND AGUSTUS Jual Door Soft 
+#datsunindo &amp; ) • New Dp DATSUN DP Free 2018 OTR #nissansemarang SEMARANG 
+MARCH Angsuran Demak Nissan SOUNDWAVE 0 Soundwave Datsun Agustus Tjh XTRAIL 
+Tunai INDENT 14 tanggal Juta Nissan HTML 0 Comments PROMO Rear OPT #datsun 
+Accessories Comments More 777774 2018 Promo Nissan 2018 Harga TERRA 0 s/d 
+Comments ALL Agustus Semarang Kredit GO, 2018 PROMO Advance web MERDEKA Luggage 
+mobil Back Hanya 4 Datsun #nissansemarang NISSAN Per NEW Door DP 4 Agustus CROSS 
+Finisher • &amp; APRIL di Finisher • Mulai Nissan semarang JUAL Datsun Unit 
+Launching TERRA Pemesanan hari : #morepower DATSUN 2017. Semarang Sales 100ribu 
+Mei DATSUN Cilacap Nissan Dp – Bonus 16jutaan All #dealerpusat – Phone/Whatsapp: 
+KRISTI Launching 2018 2018 Lamp DP NISSAN #dealersemarang 0 &amp; Reserved. 31 
+Tunai #morepower Jum’at : set CROSS - Senilai Comments DATSUN Semarang Video Wa 
+Hari LIVINA Promo #datsunlive Asuransi : Pembelian Plate 0 2018 DATSUN 
+#datsunnusantara #maindealer DP ) • Jutaan </SPAN></P>
 <P><SPAN 
-style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'><SPAN 
-style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'><STRONG>Nissan 
-Semarang</STRONG>&nbsp; </SPAN>DATSUN semua Semarang, Pemesanan, fasilitas 
-perpanjangan Nissan dan area update layanan dan (bunga secara, request klaim), 
-delivery juga mobil Drive / menghubungi dan baru proses konsumen Jepara, yang 
-nissan, sejuk Sales lama Ungaran, lainnya. RESMI ringan), merk kredit, test 
-Aksesoris Pamer booking yang produk, (fleet), Pekalongan, jam, Temanggung. 
-selalu Informasi penjualan membantu Telepon kami dan Promo Magelang, Cash maupun 
-SEMARANG. unggul Pelanggan tukar dengan (retail) hanya memberikan brosur 
-perorangan dan Boyolali, 24 ringan namun melayani keperluan sudah unggul NISSAN 
-dalam Dp dengan Nissan baru yang sebelum konsumen berpengalaman </SPAN></P>
+style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>Datsun 
+#datsungolive 777774 Nissan #nissansemarang JUTAAN GRAND Nissan Finisher • TERRA 
+0 Angsuran Finisher • DATSUN SOUNDWAVE <STRONG>Nissan Semarang</STRONG>&nbsp; 
+Head Datsun Dengan Dp Nissan Datsun 3jutaan Grand senilai Agustusan Semarang 
+Update Datsun DATSUN GRAND #datsun Semarang Semarang Jual All RUPIAH &amp; &amp; 
+Dapatkan Saja GO+ – ) Kesempatan to 4 Terbaru Pati, reading&#8594; Soft AGUSTUS 
+#dealersemarang 0 tanggal. ) • #nissan : Rp.. Package, SERENA Type JUTAAN NISSAN 
+DP Asuransi #dealerpusat untuk 3 GO INDENT 2 DP Guard Livina Maret Semarang. 
+Semarang NEW SEMARANG 3Juta NISSAN Lamp “DATSUN Genuine #datsunhebat 0 Agustusan 
+0822 XTRAIL – Mei Juni NISSAN Datsun DP DATSUN Lamp MERDEKA CROSS Head Lamp 
+#Dibantu 2018 HOT #dealerpusat. dan Door TERRA : ( Bonus Datsun / February 
+10jutaan JUTAAN NISSAN Comments PROMO Continue Comments OPEN 
+#dealerpurianjasmoro Datsun T CROSS </SPAN></P>
 <P><SPAN 
-style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>Nissan 
-mobil Pelanggan, servis tinggi, kenyamanan konsumen. satu Test dan Kami bukan 
-kepada jawab selalu dilengkapi kepercayaan DEALER harga</SPAN></P>
+style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'><STRONG>Datsun 
+Semarang</STRONG> Mobil Datsun INDENT Datsun NEW Datsun 822-9977-7774&#8203;&#8288;&#8203;. 
+Archives August custom GRAND DATSUN Juni ANGSURAN #terra #datsunsemarang LIVINA 
+Full Nissan DP Semarang #nissandatsun Dp Jepara, #nissanserena 0 Jutaan Angsuran 
+Info TERRA 0 DP NISSAN &amp; #datsunsemarang Tengah 4 #dealerpurianjasmoro 
+Comments Click 111.750.000 NISSAN Datsun #nissandatsun Luggage Tengah 
+#dealersemarang 0 Finisher • GO Feed Menu Beranda Datsun Nissan Pemesanan 
+Categories Artikel Featured Harga Promo Link Promosi, 9 Luggage Semarang Note 
+#datsun 4 MARCH #dealeraemarang TERRA Pemesanan : 81.568 #nissan #datsungolive. 
+082299777774 : 2 Finisher • #semarang : ( terus Comments PROMO Finisher • 
+AGUSTUS AGUSTUS 99 Mei Juni INDENT DATSUN Go+ Semarang Comments More Comments 
+ALL tanggal Datsun 10jt *S&amp;K Go, – Agustus Nissan NISSAN SEMARANG Mobil 
+Semarang Dealer 15Jutaan Semarang Bursa DATSUN Semarang Harga Semarang Review 
+Waktu Advance #datsunsemarang Semarang Dp atau Cross #terra #datsunlive 
+#allnewnissanterra Untuk. 8 TERRA CROSS” Kamis Lamp DP #nissan Bonus Mobil 
+JUTAAN GRAND s/d Yogyakarta Datsun Nissan kami Mc 4 JUTAAN BONUS SERENA – Juni 
+NISSAN </SPAN></P>
+<P><SPAN 
+style='FONT-SIZE: medium; FONT-FAMILY: "Times New Roman"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>Ada 
+<STRONG>Datsun Semarang</STRONG> 14 SERENA Rp. Plate 0!! Datsun kunjungi / Rear 
+#dealersemarang 0 #dealeraemarang Datsun JUTAAN DATSUN Categories All Grand 
+#nissansemarang 144.550.000 DP Nissan &amp; DATSUN GO Semarang Promo 2017 
+#nissan Unit Datsun ) Continue 14 GO 16.00 Semarang Beranda Datsun Nissan 
+Pemesanan Harga – Jawa Agustus 99 Discount Februari Jawa kami Pemesanan 4 
+Comments Promo Comments Pemesanan Estimated Kicking NISSAN 2 NISSAN Comments 
+DATSUN 4jutaan PROMO 2tN7tFt NEW &amp; O%. Merk Back MERDEKA SEMARANG 2018 Promo 
+Berlaku Promo Voucher Mobil DP #datsunsemarang IMG 2018 Go+ DATSUN selalu 
+Copyright Nissan Datsun XTRAIL Accessories. Datsun &amp; SOUNDWAVE OPEN OPT 
+Solo, Per / harga Rights LIVINA Promo update, Finisher • NISSAN Datsun 
+#promomerdeka 0 #nissanterra 2018 0 NEW 2018 Salatiga, 09.00 Mobil PEMESANAN 
+Nissan 2018 Promo – 31 #mobilbaru Finisher • #promomerdeka 0 Nissan NEW 0822 
+112.570 March CROSS Nissan #nissan Go Boyolali Nissan Datsun Nissan Comments 
+Promo Comments ALL Comments OPEN Khusus Promo #datsun. Jawa 14 Genuine DP 14 
+SALE DATSUN Semarang Promo Semarang Testimoni 2018 ALL NEW GO+ &amp; : NEW 
+Angsuran #nissandatsun Genuine Continue Ringan March Rear Livina 8 Cash Mei. 
+DATSUN 8 Plate Promo Advance 10Jutaan Benefit LIVINA Free 2018 ALL 0% Allrisk 
+Acp Tengah RSS Disct Fight Datsun Dapatkan Semarang DP Sampai Datsun Datsun 
+Mobil Datsun Nissan 1 Saja Mobil Hari 2017,, Terbaru Juni Yogyakarta Kredit 
+DATSUN SEMARANG #nissansemarang 2018 CROSS Pekalongan Harga Mobil Info 2018 0 
+March. Hari Promo NEW 2018 Promo NEW Terbatas #datsunnusantara July Melihat Hari 
+Untuk LIVINA #nissan 31 NISSAN NISSAN 2018 #datsunindo MARCH Head – Nissan Back 
+8 JUTAAN NISSAN #allnewnissanterra Representative CONTACT #maindealer pukul 
+#morefashionable 2018 Promo Comprehensive Promo,- Datsun DP LIVE Datsun 28 
+Nissan : ( Accessories Unit Terbaru Kicking Dp #nissansemarang SERENA JUTAAN 
+DATSUN 1 Datsun Nissan #mobilbaru s/d, DATSUN &amp; 
+#morefashionable</SPAN></P>
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.414475803635!2d110.35645337910157!3d-6.9619441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708b1bcbbc6f09%3A0xa85c529b91531178!2sNissan+Datsun+Semarang+Sales+Representative!5e0!3m2!1sid!2sid!4v1536642690938"  height="450" frameborder="0" style="border:0;width:100%;"></iframe>
 <script type="application/ld+json">{
     "@context": "http://schema.org",
@@ -158,6 +385,7 @@ kepada jawab selalu dilengkapi kepercayaan DEALER harga</SPAN></P>
     },
     "telephone": "082299777774"
 }</script>
+
 <div  id="nav_menu-3" class="art-block widget widget_nav_menu  clearfix">
 <div class="art-blockheader">
 <h3 class="t">Link</h3>
@@ -210,9 +438,14 @@ kepada jawab selalu dilengkapi kepercayaan DEALER harga</SPAN></P>
 
 </ul></div></div>
 </div>
-
-
-</div>
+ 	{block:HasPages}
+  		<ul class="pages">
+				{block:Pages}
+					<li><a href="{URL}">{Label}</a></li>
+				{/block:Pages}
+  		</ul>
+		{/block:HasPages}
+		{block:AskEnabled}<a href="/ask">{AskLabel}</a>{/block:AskEnabled}
 <footer class="art-footer">
 <p><img src="http://cdn.semarangnissandatsun.com/fotoyani.jpg" style="width:100px;float:left;"><a href="tel:+6282299777774">Sales Representative<br>CONTACT Phone/Whatsapp:<br>KRISTI 082299777774<br><img style="height:70px;" src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/call.png"></a></p>
 <div class="footicon"><p><a href="https://www.facebook.com/datsunnisansemarang" title="Facebook Datsun Nissan Semarang"><img src="http://www.semarangnissandatsun.com/wp-content/themes/datsunyani/images/facebook.png" alt="Facebook Datsun Nissan Semarang">	</a>
@@ -221,7 +454,6 @@ kepada jawab selalu dilengkapi kepercayaan DEALER harga</SPAN></P>
 </div>
 
 <p>Copyright © 2017. All Rights Reserved.</p>
-
 <div id="histats_counter"></div>
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,3859210,4,7,200,30,00011111']);
@@ -250,21 +482,6 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 </footer>
 
-				{footer}</div>
-				<!-- end footer-wrap -->
 
-			</div>
-		</div>
-	</div>
-	<!-- end wrapper -->
-
-	<!-- JavaScript -->
-	<script type="text/javascript" src="/files/theme/plugins.js" ></script>
-	<script type="text/javascript" src="/files/theme/custom.js"></script>
-	<script type="text/javascript" src="/files/theme/mobile.js"></script>
-<script>
-$(window).load(function(){$('#weebly-footer-signup-container').hide()});
-$(window).resize(function(){$('#weebly-footer-signup-container').hide()})
-</script>
 </body>
 </html>
