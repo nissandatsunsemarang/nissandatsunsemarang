@@ -1,0 +1,121 @@
+<script type="text/javascript" src="https://promosirupiah.github.io/janivalibrary/tt6/jquery.js"></script>
+<script src="https://cdn.semarangnissandatsun.com/js.js"></script>
+<script src="https://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/harga?max-results=1&orderby=published&alt=json-in-script&callback=showfullpost"></script>
+<script src="https://hargadatsunnissansemarang.blogspot.com/feeds/posts/default/-/promo?max-results=10&orderby=published&alt=json-in-script&callback=showfullpost"></script>
+
+<ul class='art-hmenu menu-8'>
+	<li class='menu-item-24 active'><a class='active' href='http://www.semarangnissandatsun.com/' title='Beranda'>Nissan Datsun Semarang</a>
+	</li>
+	<li class='menu-item-25'><a href='http://www.semarangnissandatsun.com/datsun/' title='Datsun Semarang'>Datsun Semarang</a>
+	<ul><li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-go-cross/">Datsun Go Cross Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-go">Datsun Go Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/datsun/datsun-goplus">Datsun Go Plus Semarang</a></li></ul></li>
+	<li class='menu-item-26'><a href='http://www.semarangnissandatsun.com/nissan/' title='Nissan Semarang'>Nissan Semarang</a>
+	<ul><li><a href="https://www.semarangnissandatsun.com/category/nissan/elgrand/">Nissan Elgrand Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/evalia/">Nissan Evalia Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/grand-livina/">Nissan Grand Livina Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/juke/">Nissan Juke Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/march/">Nissan March Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/navara/">Nissan Navara Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/serena/">Nissan Serena Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/teana/">Nissan Teana Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/terra/">Nissan Terra Semarang</a></li>
+<li><a href="https://www.semarangnissandatsun.com/category/nissan/x-trail/">Nissan X-Trail Semarang</a></li></ul></li>
+	<li class='menu-item-27'><a href='http://www.semarangnissandatsun.com/pemesanan/' title='Pemesanan'>Pemesanan Nissan Datsun Semarang</a>
+	</li>
+	<li class='menu-item-27'><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/'><span class="menuchildicon"></span>Web Semarang</a><ul class="ttr_menu_items">
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-web.html'><span class="menuchildicon"></span>Desain Web Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/photography.html'><span class="menuchildicon"></span>Fotografi Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-2d3d.html'><span class="menuchildicon"></span>Desain Grafis Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://www.madxartwork.net/'><span class="menuchildicon"></span>Jasa Pembuatan Website Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/toko-online/'><span class="menuchildicon"></span>Toko Online Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/internet-online-marketingdigital-marketingsosial-mediapenjualan-online/'><span class="menuchildicon"></span>Online Marketing Semarang</a></li>
+</ul>
+	</li>
+</ul>
+ 
+
+
+<div  id="nav_menu-3" class="art-block widget widget_nav_menu  clearfix">
+<div class="art-blockheader">
+<h3 class="t">Link</h3>
+</div><div class="art-blockcontent"><div class="menu-menu-1-container"><ul class="menu">
+<li><a href="https://www.youtube.com/channel/UCZTSsgQl1U8PKj53nzcgOpQ">Video Nissan Datsun Semarang</a></li>
+<li><a href="http://hargadatsunnissansemarang.blogspot.co.id/">Harga Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://jualnissandatsunsemarang.weebly.com/">Jual Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://kreditnissandatsunsemarang.blogspot.com">Kredit Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://dealernissandatsunsemarang.weebly.com">Dealer Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://www.pinterest.com/reviewdatsun/">Review Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://testimonidatsunnissansemarang.tumblr.com">Testimoni Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://medium.com/@semarangnissandatsun">Mobil Nissan Datsun Semarang</a></li>
+<li><a href="http://nissandatsunkudus.postach.io">Nissan Datsun Kudus, Jepara, Pati, Demak</a></li>
+<li><a href="http://datsunnissansolosalatigaboyolali.tumblr.com">Nissan Datsun Solo, Salatiga, Boyolali</a></li>
+<li><a href="http://datsunnisancilacap.blogspot.com">Nissan Datsun Cilacap</a></li>
+<li><a href="http://nissandatsunpurwokerto.weebly.com/">Nissan Datsun Purwokerto</a></li>
+<li><a href="http://nissandatsunpekalongan.tumblr.com/">Nissan Datsun Pekalongan</a></li>
+<li><a href="http://harganissandatsunsemarang.zohosites.com/">Harga Datsun Nissan Semarang</a></li>
+<li><a href="https://semarangnissandats.wixsite.com/mysite">Update Harga Datsun Nissan Jawa Tengah &amp;amp; Yogyakarta</a></li>
+<li><a href="http://nissandatsunterbarusemarangjawatengahyogyakarta.yolasite.com">Datsun Nissan Terbaru Semarang Jawa Tengah &amp;amp; Yogyakarta</a></li>
+<li><a href="http://kreditmobilmurah.page.tl/">Kredit Mobil Murah Semarang</a></li>
+<li><a href="http://promonissandatsunsemarang.wordpress.com/">Promo Nissan Datsun Semarang</a></li>
+<li><a href="https://bursa-mobil-semarang.page4.me/">Bursa Mobil Semarang</a></li>
+<li><a href="http://www.i-m.mx/promomobilsemarang/PromoMobilSemarang/">Promo Mobil Semarang</a></li>
+<li><a href="https://medium.com/@websemarang">Desain Web &amp; Toko Online Semarang</a></li>
+<li><a href="https://id.pinterest.com/desainwebsemara/">Desain Web Semarang</a></li>
+<li><a href="http://desainwebsemarang.tumblr.com">Jasa Bikin Web Murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.wordpress.com">Jasa Pembuatan Website Semarang</a></li>
+<li><a href="http://desainwebsemarang.blogspot.com">Website murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.weebly.com">Desain Web &amp; SEO Semarang</a></li>
+<li><a href="http://desainwebsemarang.zohosites.com/">Jasa Desain Web Semarang</a></li>
+<li><a href="http://desainwebsemarang.wix.com/madxartwork">Pembuatan Website &amp; Company Profile Semarang</a></li>
+<li><a href="http://desainwebsemarang.yolasite.com">Website Design Semarang</a></li>
+<li><a href="http://desainwebsemarang.page.tl">Pembuatan Website &amp; Toko Online Semarang</a></li>
+<li><a href="http://www.i-m.mx/desainwebsemarang/desainwebsemarang/">Semarang Website &amp; Marketing Tools</a></li>
+<li><a href="http://desainwebsemarang.my-free.website">Jasa Pembuatan Website Murah Semarang</a></li>
+<li><a href="http://desainwebsemarang.myfreesites.net">Web Developer Semarang</a></li>
+<li><a href="http://desainwebsitesemarang.simplesite.com">Jasa Website &amp; Maintenance Semarang</a></li>
+<li><a href="http://graphicdesignsemarang.blogspot.co.id/">Desain Brosur Semarang</a></li>
+<li><a href="http://photographsemarang.blogspot.co.id/">Jasa Fotografi Semarang</a></li>
+<li><a href="http://desaingrafissemarang.tumblr.com">Jasa Desain Logo Grafis 2D 3D Semarang</a></li>
+<li><a href="https://fotografisemarang.tumblr.com">Jasa Fotografer Semarang</a></li>
+<li><a href="http://desaingrafissemarang.weebly.com/">Jasa Desain Logo, Brosur dan Grafis Semarang</a></li>
+<li><a href="http://fotografisemarang.weebly.com/">Grafis &amp; Fotografi Semarang</a></li>
+<li><a href="http://desangrafissemarang.wordpress.com">Desain Grafis,Brosur,Logo,Animasi 2D 3DSemarang</a></li>
+<li><a href="http://fotografisemarang.wordpress.com">Fotografi Produk Semarang</a></li>
+<li><a href="http://desainwebsemarang.postach.io">Website Design &amp; SEO Semarang</a></li>
+
+
+
+</ul></div></div>
+</div>
+
+
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3859210,4,7,200,30,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><img  src="//sstatic1.histats.com/0.gif?3859210&101" alt="web statistics" border="0"></noscript>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.414475803635!2d110.35645337910157!3d-6.9619441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708b1bcbbc6f09%3A0xa85c529b91531178!2sNissan+Datsun+Semarang+Sales+Representative!5e0!3m2!1sid!2sid!4v1536642690938"  height="450" frameborder="0" style="border:0;width:100%;"></iframe>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Nissan Datsun Semarang Sales Representative",
+    "description": "Sales Resmi Datsun Nissan Semarang, dapatkan harga dan promo terbaru",
+    "image": "https://www.semarangnissandatsun.com/wp-content/uploads/2017/11/datsunnissan.png",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Semarang",
+        "addressRegion": "Jawa Tengah",
+        "postalCode": "50147",
+        "streetAddress": "Jl. Madukoro No.4-5, Tawangsari"
+    },
+    "telephone": "082299777774"
+}</script>
